@@ -90,7 +90,7 @@ http://0.0.0.0:3000/
 ```
 
 ## Next
-- create chat module(/server/boot/...)
+- create chat module(/server/boot/chat.js)
 - login auth(http://docs.strongloop.com/display/public/LB/Authentication+and+authorization)
 - Third-party login (Passport)(http://docs.strongloop.com/pages/releaseview.action?pageId=3836277)
 - MongoDB connector(http://docs.strongloop.com/display/public/LB/MongoDB+connector)
