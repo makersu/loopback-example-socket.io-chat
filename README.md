@@ -91,6 +91,7 @@ http://0.0.0.0:3000/
 
 ## Reference
 - Getting started with LoopBack(http://docs.strongloop.com/display/public/LB/Getting+started+with+LoopBack)
+- Defining Express middleware(http://docs.strongloop.com/display/public/LB/Defining+middleware)
 - Socket.IO(http://socket.io/get-started/chat/)
 
 ## Next
