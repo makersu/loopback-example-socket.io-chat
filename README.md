@@ -90,14 +90,14 @@ http://0.0.0.0:3000/
 ```
 
 ## Next
-### create chat module(/server/boot/...)
-### login auth(http://docs.strongloop.com/display/public/LB/Authentication+and+authorization)
-### Third-party login (Passport)(http://docs.strongloop.com/pages/releaseview.action?pageId=3836277)
-### MongoDB connector(http://docs.strongloop.com/display/public/LB/MongoDB+connector)
-### Storage service(http://docs.strongloop.com/display/public/LB/Storage+service)
-### webRTC
+- create chat module(/server/boot/...)
+- login auth(http://docs.strongloop.com/display/public/LB/Authentication+and+authorization)
+- Third-party login (Passport)(http://docs.strongloop.com/pages/releaseview.action?pageId=3836277)
+- MongoDB connector(http://docs.strongloop.com/display/public/LB/MongoDB+connector)
+- Storage service(http://docs.strongloop.com/display/public/LB/Storage+service)
+- webRTC
 
 
 ## Reference
-### Getting started with LoopBack(http://docs.strongloop.com/display/public/LB/Getting+started+with+LoopBack)
-### Socket.IO(http://socket.io/get-started/chat/)
+- Getting started with LoopBack(http://docs.strongloop.com/display/public/LB/Getting+started+with+LoopBack)
+- Socket.IO(http://socket.io/get-started/chat/)
