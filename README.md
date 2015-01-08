@@ -1,5 +1,5 @@
 # loopbackchat
-Loopback with socket.io example
+StrongLoop Loopback with socket.io example
 
 ## Create new loopback application
 ```
