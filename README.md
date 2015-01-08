@@ -89,15 +89,22 @@ slc run
 http://0.0.0.0:3000/
 ```
 
+## Reference
+- Getting started with LoopBack(http://docs.strongloop.com/display/public/LB/Getting+started+with+LoopBack)
+- Socket.IO(http://socket.io/get-started/chat/)
+
 ## Next
 - create chat module(/server/boot/chat.js)
 - login auth(http://docs.strongloop.com/display/public/LB/Authentication+and+authorization)
 - Third-party login (Passport)(http://docs.strongloop.com/pages/releaseview.action?pageId=3836277)
 - MongoDB connector(http://docs.strongloop.com/display/public/LB/MongoDB+connector)
 - Storage service(http://docs.strongloop.com/display/public/LB/Storage+service)
-- webRTC
+- Redis(http://redis.io/)
+- RabbitMQ(http://www.rabbitmq.com/)
+- elasticsearch(http://www.elasticsearch.org/)
+- webRTC(http://www.webrtc.org/)
+- cordova(http://cordova.apache.org/)
+- ionicframework(http://ionicframework.com/)
 
 
-## Reference
-- Getting started with LoopBack(http://docs.strongloop.com/display/public/LB/Getting+started+with+LoopBack)
-- Socket.IO(http://socket.io/get-started/chat/)
+
