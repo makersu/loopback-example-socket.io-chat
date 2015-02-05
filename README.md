@@ -1,6 +1,11 @@
 # loopbackchat
 StrongLoop Loopback with socket.io chat example
 
+#  Install StrongLoop
+```
+npm install -g strongloop
+```
+
 ## Create new loopback application
 ```
 slc loopback
